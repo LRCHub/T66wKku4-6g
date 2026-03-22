@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "火ノ粉ヲ散ラス昇龍",
+  "base_artist": "餓鬼レンジャー",
+  "createdAt": "2026-03-22T09:16:59.132809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "火ノ粉ヲ散ラス昇龍",
+      "artist": "Gaki Ranger",
+      "has_synced": false,
+      "path": "select/01_火ノ粉ヲ散ラス昇龍_Gaki_Ranger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "火ノ粉ヲ散ラス昇龍",
+      "artist": "餓鬼レンジャー",
+      "has_synced": false,
+      "path": "select/pl_01_火ノ粉ヲ散ラス昇龍_餓鬼レンジャー.txt"
+    }
+  ]
+}
